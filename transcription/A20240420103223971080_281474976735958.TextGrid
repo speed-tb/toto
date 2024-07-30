@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.541875
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 3.541875
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.62
+			text = "0"
+		intervals [2]:
+			xmin = 0.62
+			xmax = 1.43
+			text = "ʈebil ta"
+		intervals [3]:
+			xmin = 1.43
+			xmax = 1.46
+			text = "0"
+		intervals [4]:
+			xmin = 1.46
+			xmax = 2.07
+			text = "tæco"
+		intervals [5]:
+			xmin = 2.07
+			xmax = 2.09
+			text = "0"
+		intervals [6]:
+			xmin = 2.09
+			xmax = 2.91
+			text = "iga nina"
+		intervals [7]:
+			xmin = 2.91
+			xmax = 3.541875
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 3.541875
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.62
+			text = "0"
+		intervals [2]:
+			xmin = 0.62
+			xmax = 1.43
+			text = ""
+		intervals [3]:
+			xmin = 1.43
+			xmax = 1.46
+			text = "0"
+		intervals [4]:
+			xmin = 1.46
+			xmax = 2.07
+			text = ""
+		intervals [5]:
+			xmin = 2.07
+			xmax = 2.09
+			text = "0"
+		intervals [6]:
+			xmin = 2.09
+			xmax = 2.91
+			text = ""
+		intervals [7]:
+			xmin = 2.91
+			xmax = 3.541875
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 3.541875
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.62
+			text = "0"
+		intervals [2]:
+			xmin = 0.62
+			xmax = 1.43
+			text = ""
+		intervals [3]:
+			xmin = 1.43
+			xmax = 1.46
+			text = "0"
+		intervals [4]:
+			xmin = 1.46
+			xmax = 2.07
+			text = ""
+		intervals [5]:
+			xmin = 2.07
+			xmax = 2.09
+			text = "0"
+		intervals [6]:
+			xmin = 2.09
+			xmax = 2.91
+			text = ""
+		intervals [7]:
+			xmin = 2.91
+			xmax = 3.541875
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 3.541875
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.62
+			text = "0"
+		intervals [2]:
+			xmin = 0.62
+			xmax = 1.43
+			text = ""
+		intervals [3]:
+			xmin = 1.43
+			xmax = 1.46
+			text = "0"
+		intervals [4]:
+			xmin = 1.46
+			xmax = 2.07
+			text = ""
+		intervals [5]:
+			xmin = 2.07
+			xmax = 2.09
+			text = "0"
+		intervals [6]:
+			xmin = 2.09
+			xmax = 2.91
+			text = ""
+		intervals [7]:
+			xmin = 2.91
+			xmax = 3.541875
+			text = "0"

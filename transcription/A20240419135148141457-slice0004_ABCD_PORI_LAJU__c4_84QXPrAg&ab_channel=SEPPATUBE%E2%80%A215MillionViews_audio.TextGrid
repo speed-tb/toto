@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 66.1
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-gloss"
+		xmin = 0.0
+		xmax = 66.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.5
+			text = "0"
+		intervals [2]:
+			xmin = 11.5
+			xmax = 63.0
+			text = ""
+		intervals [3]:
+			xmin = 63.0
+			xmax = 66.1
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Toto-gloss"
+		xmin = 0.0
+		xmax = 66.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.5
+			text = "0"
+		intervals [2]:
+			xmin = 11.5
+			xmax = 63.0
+			text = ""
+		intervals [3]:
+			xmin = 63.0
+			xmax = 66.1
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 66.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.5
+			text = "0"
+		intervals [2]:
+			xmin = 11.5
+			xmax = 63.0
+			text = ""
+		intervals [3]:
+			xmin = 63.0
+			xmax = 66.1
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 66.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.5
+			text = "0"
+		intervals [2]:
+			xmin = 11.5
+			xmax = 63.0
+			text = "oeapano pori gorila mobanəŋ goea pano rato naram kokeitarena o niɟir noleki gokila mobaneŋ no niɟer nobarto aberaŋ baki tareŋa wan ʈu ʈʰri pʰor pori laɟu ə a i iaŋ pori laɟu"
+		intervals [3]:
+			xmin = 63.0
+			xmax = 66.1
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 66.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.5
+			text = "0"
+		intervals [2]:
+			xmin = 11.5
+			xmax = 63.0
+			text = ""
+		intervals [3]:
+			xmin = 63.0
+			xmax = 66.1
+			text = "0"
+	item [6]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 66.1
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 11.5
+			text = "0"
+		intervals [2]:
+			xmin = 11.5
+			xmax = 63.0
+			text = ""
+		intervals [3]:
+			xmin = 63.0
+			xmax = 66.1
+			text = "0"

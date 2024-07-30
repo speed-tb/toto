@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.889375
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 4.889375
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.4
+			text = "0"
+		intervals [2]:
+			xmin = 1.4
+			xmax = 2.11
+			text = "kəmpani"
+		intervals [3]:
+			xmin = 2.11
+			xmax = 2.17
+			text = "0"
+		intervals [4]:
+			xmin = 2.17
+			xmax = 2.69
+			text = "aku"
+		intervals [5]:
+			xmin = 2.69
+			xmax = 2.73
+			text = "0"
+		intervals [6]:
+			xmin = 2.73
+			xmax = 3.97
+			text = "kolkata ta kaipro"
+		intervals [7]:
+			xmin = 3.97
+			xmax = 4.889375
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 4.889375
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.4
+			text = "0"
+		intervals [2]:
+			xmin = 1.4
+			xmax = 2.11
+			text = ""
+		intervals [3]:
+			xmin = 2.11
+			xmax = 2.17
+			text = "0"
+		intervals [4]:
+			xmin = 2.17
+			xmax = 2.69
+			text = ""
+		intervals [5]:
+			xmin = 2.69
+			xmax = 2.73
+			text = "0"
+		intervals [6]:
+			xmin = 2.73
+			xmax = 3.97
+			text = ""
+		intervals [7]:
+			xmin = 3.97
+			xmax = 4.889375
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 4.889375
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.4
+			text = "0"
+		intervals [2]:
+			xmin = 1.4
+			xmax = 2.11
+			text = ""
+		intervals [3]:
+			xmin = 2.11
+			xmax = 2.17
+			text = "0"
+		intervals [4]:
+			xmin = 2.17
+			xmax = 2.69
+			text = ""
+		intervals [5]:
+			xmin = 2.69
+			xmax = 2.73
+			text = "0"
+		intervals [6]:
+			xmin = 2.73
+			xmax = 3.97
+			text = ""
+		intervals [7]:
+			xmin = 3.97
+			xmax = 4.889375
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 4.889375
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.4
+			text = "0"
+		intervals [2]:
+			xmin = 1.4
+			xmax = 2.11
+			text = ""
+		intervals [3]:
+			xmin = 2.11
+			xmax = 2.17
+			text = "0"
+		intervals [4]:
+			xmin = 2.17
+			xmax = 2.69
+			text = ""
+		intervals [5]:
+			xmin = 2.69
+			xmax = 2.73
+			text = "0"
+		intervals [6]:
+			xmin = 2.73
+			xmax = 3.97
+			text = ""
+		intervals [7]:
+			xmin = 3.97
+			xmax = 4.889375
+			text = "0"

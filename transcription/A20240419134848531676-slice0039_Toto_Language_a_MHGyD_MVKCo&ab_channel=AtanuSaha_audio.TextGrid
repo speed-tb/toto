@@ -1,0 +1,190 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 35.3
+tiers? <exists>
+size = 7
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-gloss"
+		xmin = 0.0
+		xmax = 35.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.1
+			text = "0"
+		intervals [2]:
+			xmin = 13.1
+			xmax = 21.0
+			text = ""
+		intervals [3]:
+			xmin = 21.0
+			xmax = 21.3
+			text = "0"
+		intervals [4]:
+			xmin = 21.3
+			xmax = 31.9
+			text = ""
+		intervals [5]:
+			xmin = 31.9
+			xmax = 35.3
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-gloss"
+		xmin = 0.0
+		xmax = 35.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.1
+			text = "0"
+		intervals [2]:
+			xmin = 13.1
+			xmax = 21.0
+			text = ""
+		intervals [3]:
+			xmin = 21.0
+			xmax = 21.3
+			text = "0"
+		intervals [4]:
+			xmin = 21.3
+			xmax = 31.9
+			text = ""
+		intervals [5]:
+			xmin = 31.9
+			xmax = 35.3
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-gloss"
+		xmin = 0.0
+		xmax = 35.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.1
+			text = "0"
+		intervals [2]:
+			xmin = 13.1
+			xmax = 21.0
+			text = ""
+		intervals [3]:
+			xmin = 21.0
+			xmax = 21.3
+			text = "0"
+		intervals [4]:
+			xmin = 21.3
+			xmax = 31.9
+			text = ""
+		intervals [5]:
+			xmin = 31.9
+			xmax = 35.3
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 35.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.1
+			text = "0"
+		intervals [2]:
+			xmin = 13.1
+			xmax = 21.0
+			text = ""
+		intervals [3]:
+			xmin = 21.0
+			xmax = 21.3
+			text = "0"
+		intervals [4]:
+			xmin = 21.3
+			xmax = 31.9
+			text = ""
+		intervals [5]:
+			xmin = 31.9
+			xmax = 35.3
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 35.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.1
+			text = "0"
+		intervals [2]:
+			xmin = 13.1
+			xmax = 21.0
+			text = "noko souko"
+		intervals [3]:
+			xmin = 21.0
+			xmax = 21.3
+			text = "0"
+		intervals [4]:
+			xmin = 21.3
+			xmax = 31.9
+			text = "kuŋ botol na nako"
+		intervals [5]:
+			xmin = 31.9
+			xmax = 35.3
+			text = "0"
+	item [6]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 35.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.1
+			text = "0"
+		intervals [2]:
+			xmin = 13.1
+			xmax = 21.0
+			text = ""
+		intervals [3]:
+			xmin = 21.0
+			xmax = 21.3
+			text = "0"
+		intervals [4]:
+			xmin = 21.3
+			xmax = 31.9
+			text = ""
+		intervals [5]:
+			xmin = 31.9
+			xmax = 35.3
+			text = "0"
+	item [7]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 35.3
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.1
+			text = "0"
+		intervals [2]:
+			xmin = 13.1
+			xmax = 21.0
+			text = ""
+		intervals [3]:
+			xmin = 21.0
+			xmax = 21.3
+			text = "0"
+		intervals [4]:
+			xmin = 21.3
+			xmax = 31.9
+			text = ""
+		intervals [5]:
+			xmin = 31.9
+			xmax = 35.3
+			text = "0"

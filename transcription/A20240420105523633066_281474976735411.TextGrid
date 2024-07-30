@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.159
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 4.159
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.85
+			text = "0"
+		intervals [2]:
+			xmin = 0.85
+			xmax = 1.36
+			text = "biməl"
+		intervals [3]:
+			xmin = 1.36
+			xmax = 1.43
+			text = "0"
+		intervals [4]:
+			xmin = 1.43
+			xmax = 1.97
+			text = "ɟorako"
+		intervals [5]:
+			xmin = 1.97
+			xmax = 2.0
+			text = "0"
+		intervals [6]:
+			xmin = 2.0
+			xmax = 3.45
+			text = "arita leidina"
+		intervals [7]:
+			xmin = 3.45
+			xmax = 4.159
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 4.159
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.85
+			text = "0"
+		intervals [2]:
+			xmin = 0.85
+			xmax = 1.36
+			text = ""
+		intervals [3]:
+			xmin = 1.36
+			xmax = 1.43
+			text = "0"
+		intervals [4]:
+			xmin = 1.43
+			xmax = 1.97
+			text = ""
+		intervals [5]:
+			xmin = 1.97
+			xmax = 2.0
+			text = "0"
+		intervals [6]:
+			xmin = 2.0
+			xmax = 3.45
+			text = ""
+		intervals [7]:
+			xmin = 3.45
+			xmax = 4.159
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 4.159
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.85
+			text = "0"
+		intervals [2]:
+			xmin = 0.85
+			xmax = 1.36
+			text = ""
+		intervals [3]:
+			xmin = 1.36
+			xmax = 1.43
+			text = "0"
+		intervals [4]:
+			xmin = 1.43
+			xmax = 1.97
+			text = ""
+		intervals [5]:
+			xmin = 1.97
+			xmax = 2.0
+			text = "0"
+		intervals [6]:
+			xmin = 2.0
+			xmax = 3.45
+			text = ""
+		intervals [7]:
+			xmin = 3.45
+			xmax = 4.159
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 4.159
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.85
+			text = "0"
+		intervals [2]:
+			xmin = 0.85
+			xmax = 1.36
+			text = ""
+		intervals [3]:
+			xmin = 1.36
+			xmax = 1.43
+			text = "0"
+		intervals [4]:
+			xmin = 1.43
+			xmax = 1.97
+			text = ""
+		intervals [5]:
+			xmin = 1.97
+			xmax = 2.0
+			text = "0"
+		intervals [6]:
+			xmin = 2.0
+			xmax = 3.45
+			text = ""
+		intervals [7]:
+			xmin = 3.45
+			xmax = 4.159
+			text = "0"

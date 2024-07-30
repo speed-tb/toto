@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 23.8
+tiers? <exists>
+size = 7
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-gloss"
+		xmin = 0.0
+		xmax = 23.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.98
+			text = "0"
+		intervals [2]:
+			xmin = 13.98
+			xmax = 18.0
+			text = ""
+		intervals [3]:
+			xmin = 18.0
+			xmax = 23.8
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-gloss"
+		xmin = 0.0
+		xmax = 23.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.98
+			text = "0"
+		intervals [2]:
+			xmin = 13.98
+			xmax = 18.0
+			text = ""
+		intervals [3]:
+			xmin = 18.0
+			xmax = 23.8
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-gloss"
+		xmin = 0.0
+		xmax = 23.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.98
+			text = "0"
+		intervals [2]:
+			xmin = 13.98
+			xmax = 18.0
+			text = ""
+		intervals [3]:
+			xmin = 18.0
+			xmax = 23.8
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 23.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.98
+			text = "0"
+		intervals [2]:
+			xmin = 13.98
+			xmax = 18.0
+			text = ""
+		intervals [3]:
+			xmin = 18.0
+			xmax = 23.8
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 23.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.98
+			text = "0"
+		intervals [2]:
+			xmin = 13.98
+			xmax = 18.0
+			text = "hoe ɟabei tista doi huina hagojlogoipor"
+		intervals [3]:
+			xmin = 18.0
+			xmax = 23.8
+			text = "0"
+	item [6]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 23.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.98
+			text = "0"
+		intervals [2]:
+			xmin = 13.98
+			xmax = 18.0
+			text = ""
+		intervals [3]:
+			xmin = 18.0
+			xmax = 23.8
+			text = "0"
+	item [7]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 23.8
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 13.98
+			text = "0"
+		intervals [2]:
+			xmin = 13.98
+			xmax = 18.0
+			text = ""
+		intervals [3]:
+			xmin = 18.0
+			xmax = 23.8
+			text = "0"

@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 52.5
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-gloss"
+		xmin = 0.0
+		xmax = 52.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 49.0
+			text = ""
+		intervals [3]:
+			xmin = 49.0
+			xmax = 52.5
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Toto-gloss"
+		xmin = 0.0
+		xmax = 52.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 49.0
+			text = ""
+		intervals [3]:
+			xmin = 49.0
+			xmax = 52.5
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 52.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 49.0
+			text = ""
+		intervals [3]:
+			xmin = 49.0
+			xmax = 52.5
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 52.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 49.0
+			text = "la la he he he jiaŋtana hini kahə depuŋsa uŋro sadəna aɟankoʃata aɟaŋsa hampawa hini hai kahodaŋwa he he he ho ho"
+		intervals [3]:
+			xmin = 49.0
+			xmax = 52.5
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 52.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 49.0
+			text = ""
+		intervals [3]:
+			xmin = 49.0
+			xmax = 52.5
+			text = "0"
+	item [6]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 52.5
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.1
+			text = "0"
+		intervals [2]:
+			xmin = 0.1
+			xmax = 49.0
+			text = ""
+		intervals [3]:
+			xmin = 49.0
+			xmax = 52.5
+			text = "0"

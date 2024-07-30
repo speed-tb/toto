@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 5.17875
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 5.17875
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.43
+			text = "0"
+		intervals [2]:
+			xmin = 1.43
+			xmax = 1.92
+			text = "ʃita"
+		intervals [3]:
+			xmin = 1.92
+			xmax = 1.93
+			text = "0"
+		intervals [4]:
+			xmin = 1.93
+			xmax = 3.21
+			text = "kaŋlaŋ powa dea"
+		intervals [5]:
+			xmin = 3.21
+			xmax = 3.36
+			text = "0"
+		intervals [6]:
+			xmin = 3.36
+			xmax = 4.6
+			text = "ceŋhiŋ carana"
+		intervals [7]:
+			xmin = 4.6
+			xmax = 5.17875
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 5.17875
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.43
+			text = "0"
+		intervals [2]:
+			xmin = 1.43
+			xmax = 1.92
+			text = ""
+		intervals [3]:
+			xmin = 1.92
+			xmax = 1.93
+			text = "0"
+		intervals [4]:
+			xmin = 1.93
+			xmax = 3.21
+			text = ""
+		intervals [5]:
+			xmin = 3.21
+			xmax = 3.36
+			text = "0"
+		intervals [6]:
+			xmin = 3.36
+			xmax = 4.6
+			text = ""
+		intervals [7]:
+			xmin = 4.6
+			xmax = 5.17875
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 5.17875
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.43
+			text = "0"
+		intervals [2]:
+			xmin = 1.43
+			xmax = 1.92
+			text = ""
+		intervals [3]:
+			xmin = 1.92
+			xmax = 1.93
+			text = "0"
+		intervals [4]:
+			xmin = 1.93
+			xmax = 3.21
+			text = ""
+		intervals [5]:
+			xmin = 3.21
+			xmax = 3.36
+			text = "0"
+		intervals [6]:
+			xmin = 3.36
+			xmax = 4.6
+			text = ""
+		intervals [7]:
+			xmin = 4.6
+			xmax = 5.17875
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 5.17875
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.43
+			text = "0"
+		intervals [2]:
+			xmin = 1.43
+			xmax = 1.92
+			text = ""
+		intervals [3]:
+			xmin = 1.92
+			xmax = 1.93
+			text = "0"
+		intervals [4]:
+			xmin = 1.93
+			xmax = 3.21
+			text = ""
+		intervals [5]:
+			xmin = 3.21
+			xmax = 3.36
+			text = "0"
+		intervals [6]:
+			xmin = 3.36
+			xmax = 4.6
+			text = ""
+		intervals [7]:
+			xmin = 4.6
+			xmax = 5.17875
+			text = "0"

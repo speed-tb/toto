@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 7.7
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-gloss"
+		xmin = 0.0
+		xmax = 7.7
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 7.7
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Toto-gloss"
+		xmin = 0.0
+		xmax = 7.7
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 7.7
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 7.7
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 7.7
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 7.7
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 7.7
+			text = "polea ga selae nelaga dʰatre"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 7.7
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 7.7
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 7.7
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.65
+			text = "0"
+		intervals [2]:
+			xmin = 0.65
+			xmax = 7.7
+			text = ""

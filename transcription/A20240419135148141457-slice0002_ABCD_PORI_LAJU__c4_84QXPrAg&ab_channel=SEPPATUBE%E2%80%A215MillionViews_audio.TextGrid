@@ -1,0 +1,190 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 51.6
+tiers? <exists>
+size = 7
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-gloss"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5
+			text = "0"
+		intervals [2]:
+			xmin = 0.5
+			xmax = 4.4
+			text = ""
+		intervals [3]:
+			xmin = 4.4
+			xmax = 12.4
+			text = "0"
+		intervals [4]:
+			xmin = 12.4
+			xmax = 39.3
+			text = ""
+		intervals [5]:
+			xmin = 39.3
+			xmax = 51.6
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-gloss"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5
+			text = "0"
+		intervals [2]:
+			xmin = 0.5
+			xmax = 4.4
+			text = ""
+		intervals [3]:
+			xmin = 4.4
+			xmax = 12.4
+			text = "0"
+		intervals [4]:
+			xmin = 12.4
+			xmax = 39.3
+			text = ""
+		intervals [5]:
+			xmin = 39.3
+			xmax = 51.6
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-gloss"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5
+			text = "0"
+		intervals [2]:
+			xmin = 0.5
+			xmax = 4.4
+			text = ""
+		intervals [3]:
+			xmin = 4.4
+			xmax = 12.4
+			text = "0"
+		intervals [4]:
+			xmin = 12.4
+			xmax = 39.3
+			text = ""
+		intervals [5]:
+			xmin = 39.3
+			xmax = 51.6
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5
+			text = "0"
+		intervals [2]:
+			xmin = 0.5
+			xmax = 4.4
+			text = ""
+		intervals [3]:
+			xmin = 4.4
+			xmax = 12.4
+			text = "0"
+		intervals [4]:
+			xmin = 12.4
+			xmax = 39.3
+			text = ""
+		intervals [5]:
+			xmin = 39.3
+			xmax = 51.6
+			text = "0"
+	item [5]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5
+			text = "0"
+		intervals [2]:
+			xmin = 0.5
+			xmax = 4.4
+			text = ""
+		intervals [3]:
+			xmin = 4.4
+			xmax = 12.4
+			text = "0"
+		intervals [4]:
+			xmin = 12.4
+			xmax = 39.3
+			text = "e bi si di a pori laɟu kə kʰə gə gʰe pori laɟu e bi si di a piro laɟu kə kʰə gə gʰe pori laɟu pori laɟu pori laɟu pori laɟu"
+		intervals [5]:
+			xmin = 39.3
+			xmax = 51.6
+			text = "0"
+	item [6]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5
+			text = "0"
+		intervals [2]:
+			xmin = 0.5
+			xmax = 4.4
+			text = ""
+		intervals [3]:
+			xmin = 4.4
+			xmax = 12.4
+			text = "0"
+		intervals [4]:
+			xmin = 12.4
+			xmax = 39.3
+			text = ""
+		intervals [5]:
+			xmin = 39.3
+			xmax = 51.6
+			text = "0"
+	item [7]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 51.6
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.5
+			text = "0"
+		intervals [2]:
+			xmin = 0.5
+			xmax = 4.4
+			text = ""
+		intervals [3]:
+			xmin = 4.4
+			xmax = 12.4
+			text = "0"
+		intervals [4]:
+			xmin = 12.4
+			xmax = 39.3
+			text = ""
+		intervals [5]:
+			xmin = 39.3
+			xmax = 51.6
+			text = "0"

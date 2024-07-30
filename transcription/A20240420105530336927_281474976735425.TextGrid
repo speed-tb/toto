@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.8225
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 2.8225
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.64
+			text = "0"
+		intervals [2]:
+			xmin = 0.64
+			xmax = 2.25
+			text = "ɟorai aigoko aibita nina"
+		intervals [3]:
+			xmin = 2.25
+			xmax = 2.8225
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 2.8225
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.64
+			text = "0"
+		intervals [2]:
+			xmin = 0.64
+			xmax = 2.25
+			text = ""
+		intervals [3]:
+			xmin = 2.25
+			xmax = 2.8225
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 2.8225
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.64
+			text = "0"
+		intervals [2]:
+			xmin = 0.64
+			xmax = 2.25
+			text = ""
+		intervals [3]:
+			xmin = 2.25
+			xmax = 2.8225
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 2.8225
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.64
+			text = "0"
+		intervals [2]:
+			xmin = 0.64
+			xmax = 2.25
+			text = ""
+		intervals [3]:
+			xmin = 2.25
+			xmax = 2.8225
+			text = "0"

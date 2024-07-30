@@ -1,0 +1,240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 10.20375
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 10.20375
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 1.68
+			text = ""
+		intervals [3]:
+			xmin = 1.68
+			xmax = 1.8
+			text = "0"
+		intervals [4]:
+			xmin = 1.8
+			xmax = 2.77
+			text = ""
+		intervals [5]:
+			xmin = 2.77
+			xmax = 2.84
+			text = "0"
+		intervals [6]:
+			xmin = 2.84
+			xmax = 4.11
+			text = ""
+		intervals [7]:
+			xmin = 4.11
+			xmax = 4.17
+			text = "0"
+		intervals [8]:
+			xmin = 4.17
+			xmax = 4.81
+			text = ""
+		intervals [9]:
+			xmin = 4.81
+			xmax = 4.97
+			text = "0"
+		intervals [10]:
+			xmin = 4.97
+			xmax = 5.76
+			text = ""
+		intervals [11]:
+			xmin = 5.76
+			xmax = 5.8
+			text = "0"
+		intervals [12]:
+			xmin = 5.8
+			xmax = 7.34
+			text = ""
+		intervals [13]:
+			xmin = 7.34
+			xmax = 10.20375
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 10.20375
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 1.68
+			text = "poɟa"
+		intervals [3]:
+			xmin = 1.68
+			xmax = 1.8
+			text = "0"
+		intervals [4]:
+			xmin = 1.8
+			xmax = 2.77
+			text = "haʃkonoaŋ"
+		intervals [5]:
+			xmin = 2.77
+			xmax = 2.84
+			text = "0"
+		intervals [6]:
+			xmin = 2.84
+			xmax = 4.11
+			text = "naŋgai it̃n de"
+		intervals [7]:
+			xmin = 4.11
+			xmax = 4.17
+			text = "0"
+		intervals [8]:
+			xmin = 4.17
+			xmax = 4.81
+			text = "aku"
+		intervals [9]:
+			xmin = 4.81
+			xmax = 4.97
+			text = "0"
+		intervals [10]:
+			xmin = 4.97
+			xmax = 5.76
+			text = "cəŋkaŋpa"
+		intervals [11]:
+			xmin = 5.76
+			xmax = 5.8
+			text = "0"
+		intervals [12]:
+			xmin = 5.8
+			xmax = 7.34
+			text = "aʃa hampapa nĩmi"
+		intervals [13]:
+			xmin = 7.34
+			xmax = 10.20375
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 10.20375
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 1.68
+			text = ""
+		intervals [3]:
+			xmin = 1.68
+			xmax = 1.8
+			text = "0"
+		intervals [4]:
+			xmin = 1.8
+			xmax = 2.77
+			text = ""
+		intervals [5]:
+			xmin = 2.77
+			xmax = 2.84
+			text = "0"
+		intervals [6]:
+			xmin = 2.84
+			xmax = 4.11
+			text = ""
+		intervals [7]:
+			xmin = 4.11
+			xmax = 4.17
+			text = "0"
+		intervals [8]:
+			xmin = 4.17
+			xmax = 4.81
+			text = ""
+		intervals [9]:
+			xmin = 4.81
+			xmax = 4.97
+			text = "0"
+		intervals [10]:
+			xmin = 4.97
+			xmax = 5.76
+			text = ""
+		intervals [11]:
+			xmin = 5.76
+			xmax = 5.8
+			text = "0"
+		intervals [12]:
+			xmin = 5.8
+			xmax = 7.34
+			text = ""
+		intervals [13]:
+			xmin = 7.34
+			xmax = 10.20375
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 10.20375
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.9
+			text = "0"
+		intervals [2]:
+			xmin = 0.9
+			xmax = 1.68
+			text = ""
+		intervals [3]:
+			xmin = 1.68
+			xmax = 1.8
+			text = "0"
+		intervals [4]:
+			xmin = 1.8
+			xmax = 2.77
+			text = ""
+		intervals [5]:
+			xmin = 2.77
+			xmax = 2.84
+			text = "0"
+		intervals [6]:
+			xmin = 2.84
+			xmax = 4.11
+			text = ""
+		intervals [7]:
+			xmin = 4.11
+			xmax = 4.17
+			text = "0"
+		intervals [8]:
+			xmin = 4.17
+			xmax = 4.81
+			text = ""
+		intervals [9]:
+			xmin = 4.81
+			xmax = 4.97
+			text = "0"
+		intervals [10]:
+			xmin = 4.97
+			xmax = 5.76
+			text = ""
+		intervals [11]:
+			xmin = 5.76
+			xmax = 5.8
+			text = "0"
+		intervals [12]:
+			xmin = 5.8
+			xmax = 7.34
+			text = ""
+		intervals [13]:
+			xmin = 7.34
+			xmax = 10.20375
+			text = "0"

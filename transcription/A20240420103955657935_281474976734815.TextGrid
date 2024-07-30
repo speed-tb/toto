@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.4825
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 4.4825
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.04
+			text = "0"
+		intervals [2]:
+			xmin = 1.04
+			xmax = 1.59
+			text = ""
+		intervals [3]:
+			xmin = 1.59
+			xmax = 1.64
+			text = "0"
+		intervals [4]:
+			xmin = 1.64
+			xmax = 2.97
+			text = ""
+		intervals [5]:
+			xmin = 2.97
+			xmax = 3.0
+			text = "0"
+		intervals [6]:
+			xmin = 3.0
+			xmax = 3.71
+			text = ""
+		intervals [7]:
+			xmin = 3.71
+			xmax = 4.4825
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 4.4825
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.04
+			text = "0"
+		intervals [2]:
+			xmin = 1.04
+			xmax = 1.59
+			text = "aku"
+		intervals [3]:
+			xmin = 1.59
+			xmax = 1.64
+			text = "0"
+		intervals [4]:
+			xmin = 1.64
+			xmax = 2.97
+			text = "iŋtapa pakʰa kʰubia"
+		intervals [5]:
+			xmin = 2.97
+			xmax = 3.0
+			text = "0"
+		intervals [6]:
+			xmin = 3.0
+			xmax = 3.71
+			text = "kiŋko cʰumi"
+		intervals [7]:
+			xmin = 3.71
+			xmax = 4.4825
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 4.4825
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.04
+			text = "0"
+		intervals [2]:
+			xmin = 1.04
+			xmax = 1.59
+			text = ""
+		intervals [3]:
+			xmin = 1.59
+			xmax = 1.64
+			text = "0"
+		intervals [4]:
+			xmin = 1.64
+			xmax = 2.97
+			text = ""
+		intervals [5]:
+			xmin = 2.97
+			xmax = 3.0
+			text = "0"
+		intervals [6]:
+			xmin = 3.0
+			xmax = 3.71
+			text = ""
+		intervals [7]:
+			xmin = 3.71
+			xmax = 4.4825
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 4.4825
+		intervals: size = 7
+		intervals [1]:
+			xmin = 0.0
+			xmax = 1.04
+			text = "0"
+		intervals [2]:
+			xmin = 1.04
+			xmax = 1.59
+			text = ""
+		intervals [3]:
+			xmin = 1.59
+			xmax = 1.64
+			text = "0"
+		intervals [4]:
+			xmin = 1.64
+			xmax = 2.97
+			text = ""
+		intervals [5]:
+			xmin = 2.97
+			xmax = 3.0
+			text = "0"
+		intervals [6]:
+			xmin = 3.0
+			xmax = 3.71
+			text = ""
+		intervals [7]:
+			xmin = 3.71
+			xmax = 4.4825
+			text = "0"

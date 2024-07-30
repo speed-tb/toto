@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.0040625
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 4.0040625
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 1.36
+			text = "lænʈin"
+		intervals [3]:
+			xmin = 1.36
+			xmax = 2.27
+			text = "0"
+		intervals [4]:
+			xmin = 2.27
+			xmax = 3.41
+			text = "ʈebilko ʈoiʈo nina"
+		intervals [5]:
+			xmin = 3.41
+			xmax = 4.0040625
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 4.0040625
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 1.36
+			text = ""
+		intervals [3]:
+			xmin = 1.36
+			xmax = 2.27
+			text = "0"
+		intervals [4]:
+			xmin = 2.27
+			xmax = 3.41
+			text = ""
+		intervals [5]:
+			xmin = 3.41
+			xmax = 4.0040625
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 4.0040625
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 1.36
+			text = ""
+		intervals [3]:
+			xmin = 1.36
+			xmax = 2.27
+			text = "0"
+		intervals [4]:
+			xmin = 2.27
+			xmax = 3.41
+			text = ""
+		intervals [5]:
+			xmin = 3.41
+			xmax = 4.0040625
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 4.0040625
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 1.36
+			text = ""
+		intervals [3]:
+			xmin = 1.36
+			xmax = 2.27
+			text = "0"
+		intervals [4]:
+			xmin = 2.27
+			xmax = 3.41
+			text = ""
+		intervals [5]:
+			xmin = 3.41
+			xmax = 4.0040625
+			text = "0"

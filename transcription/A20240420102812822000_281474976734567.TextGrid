@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.565625
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 3.565625
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 1.95
+			text = "ka gæŋʈok ʃo"
+		intervals [3]:
+			xmin = 1.95
+			xmax = 1.99
+			text = "0"
+		intervals [4]:
+			xmin = 1.99
+			xmax = 2.59
+			text = "huaŋmi"
+		intervals [5]:
+			xmin = 2.59
+			xmax = 3.565625
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 3.565625
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 1.95
+			text = ""
+		intervals [3]:
+			xmin = 1.95
+			xmax = 1.99
+			text = "0"
+		intervals [4]:
+			xmin = 1.99
+			xmax = 2.59
+			text = ""
+		intervals [5]:
+			xmin = 2.59
+			xmax = 3.565625
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 3.565625
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 1.95
+			text = ""
+		intervals [3]:
+			xmin = 1.95
+			xmax = 1.99
+			text = "0"
+		intervals [4]:
+			xmin = 1.99
+			xmax = 2.59
+			text = ""
+		intervals [5]:
+			xmin = 2.59
+			xmax = 3.565625
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 3.565625
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.84
+			text = "0"
+		intervals [2]:
+			xmin = 0.84
+			xmax = 1.95
+			text = ""
+		intervals [3]:
+			xmin = 1.95
+			xmax = 1.99
+			text = "0"
+		intervals [4]:
+			xmin = 1.99
+			xmax = 2.59
+			text = ""
+		intervals [5]:
+			xmin = 2.59
+			xmax = 3.565625
+			text = "0"

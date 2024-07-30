@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.1709375
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 4.1709375
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.08
+			text = "0"
+		intervals [2]:
+			xmin = 2.08
+			xmax = 2.44
+			text = "ka"
+		intervals [3]:
+			xmin = 2.44
+			xmax = 2.61
+			text = "0"
+		intervals [4]:
+			xmin = 2.61
+			xmax = 3.45
+			text = "gadaŋmena"
+		intervals [5]:
+			xmin = 3.45
+			xmax = 4.1709375
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 4.1709375
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.08
+			text = "0"
+		intervals [2]:
+			xmin = 2.08
+			xmax = 2.44
+			text = ""
+		intervals [3]:
+			xmin = 2.44
+			xmax = 2.61
+			text = "0"
+		intervals [4]:
+			xmin = 2.61
+			xmax = 3.45
+			text = ""
+		intervals [5]:
+			xmin = 3.45
+			xmax = 4.1709375
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 4.1709375
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.08
+			text = "0"
+		intervals [2]:
+			xmin = 2.08
+			xmax = 2.44
+			text = ""
+		intervals [3]:
+			xmin = 2.44
+			xmax = 2.61
+			text = "0"
+		intervals [4]:
+			xmin = 2.61
+			xmax = 3.45
+			text = ""
+		intervals [5]:
+			xmin = 3.45
+			xmax = 4.1709375
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 4.1709375
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 2.08
+			text = "0"
+		intervals [2]:
+			xmin = 2.08
+			xmax = 2.44
+			text = ""
+		intervals [3]:
+			xmin = 2.44
+			xmax = 2.61
+			text = "0"
+		intervals [4]:
+			xmin = 2.61
+			xmax = 3.45
+			text = ""
+		intervals [5]:
+			xmin = 3.45
+			xmax = 4.1709375
+			text = "0"

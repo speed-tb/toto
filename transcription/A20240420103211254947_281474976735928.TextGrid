@@ -1,0 +1,240 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 9.1240625
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 9.1240625
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.98
+			text = "0"
+		intervals [2]:
+			xmin = 0.98
+			xmax = 2.96
+			text = "ka memehiŋ ɟaŋʃa"
+		intervals [3]:
+			xmin = 2.96
+			xmax = 3.33
+			text = "0"
+		intervals [4]:
+			xmin = 3.33
+			xmax = 4.26
+			text = "ʃa ta"
+		intervals [5]:
+			xmin = 4.26
+			xmax = 4.34
+			text = "0"
+		intervals [6]:
+			xmin = 4.34
+			xmax = 5.49
+			text = "kaŋlaŋ paowa"
+		intervals [7]:
+			xmin = 5.49
+			xmax = 5.54
+			text = "0"
+		intervals [8]:
+			xmin = 5.54
+			xmax = 6.57
+			text = "memehiŋ"
+		intervals [9]:
+			xmin = 6.57
+			xmax = 6.61
+			text = "0"
+		intervals [10]:
+			xmin = 6.61
+			xmax = 7.12
+			text = "ta"
+		intervals [11]:
+			xmin = 7.12
+			xmax = 7.88
+			text = "0"
+		intervals [12]:
+			xmin = 7.88
+			xmax = 8.8
+			text = "ʃaipana"
+		intervals [13]:
+			xmin = 8.8
+			xmax = 9.1240625
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 9.1240625
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.98
+			text = "0"
+		intervals [2]:
+			xmin = 0.98
+			xmax = 2.96
+			text = ""
+		intervals [3]:
+			xmin = 2.96
+			xmax = 3.33
+			text = "0"
+		intervals [4]:
+			xmin = 3.33
+			xmax = 4.26
+			text = ""
+		intervals [5]:
+			xmin = 4.26
+			xmax = 4.34
+			text = "0"
+		intervals [6]:
+			xmin = 4.34
+			xmax = 5.49
+			text = ""
+		intervals [7]:
+			xmin = 5.49
+			xmax = 5.54
+			text = "0"
+		intervals [8]:
+			xmin = 5.54
+			xmax = 6.57
+			text = ""
+		intervals [9]:
+			xmin = 6.57
+			xmax = 6.61
+			text = "0"
+		intervals [10]:
+			xmin = 6.61
+			xmax = 7.12
+			text = ""
+		intervals [11]:
+			xmin = 7.12
+			xmax = 7.88
+			text = "0"
+		intervals [12]:
+			xmin = 7.88
+			xmax = 8.8
+			text = ""
+		intervals [13]:
+			xmin = 8.8
+			xmax = 9.1240625
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 9.1240625
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.98
+			text = "0"
+		intervals [2]:
+			xmin = 0.98
+			xmax = 2.96
+			text = ""
+		intervals [3]:
+			xmin = 2.96
+			xmax = 3.33
+			text = "0"
+		intervals [4]:
+			xmin = 3.33
+			xmax = 4.26
+			text = ""
+		intervals [5]:
+			xmin = 4.26
+			xmax = 4.34
+			text = "0"
+		intervals [6]:
+			xmin = 4.34
+			xmax = 5.49
+			text = ""
+		intervals [7]:
+			xmin = 5.49
+			xmax = 5.54
+			text = "0"
+		intervals [8]:
+			xmin = 5.54
+			xmax = 6.57
+			text = ""
+		intervals [9]:
+			xmin = 6.57
+			xmax = 6.61
+			text = "0"
+		intervals [10]:
+			xmin = 6.61
+			xmax = 7.12
+			text = ""
+		intervals [11]:
+			xmin = 7.12
+			xmax = 7.88
+			text = "0"
+		intervals [12]:
+			xmin = 7.88
+			xmax = 8.8
+			text = ""
+		intervals [13]:
+			xmin = 8.8
+			xmax = 9.1240625
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 9.1240625
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.98
+			text = "0"
+		intervals [2]:
+			xmin = 0.98
+			xmax = 2.96
+			text = ""
+		intervals [3]:
+			xmin = 2.96
+			xmax = 3.33
+			text = "0"
+		intervals [4]:
+			xmin = 3.33
+			xmax = 4.26
+			text = ""
+		intervals [5]:
+			xmin = 4.26
+			xmax = 4.34
+			text = "0"
+		intervals [6]:
+			xmin = 4.34
+			xmax = 5.49
+			text = ""
+		intervals [7]:
+			xmin = 5.49
+			xmax = 5.54
+			text = "0"
+		intervals [8]:
+			xmin = 5.54
+			xmax = 6.57
+			text = ""
+		intervals [9]:
+			xmin = 6.57
+			xmax = 6.61
+			text = "0"
+		intervals [10]:
+			xmin = 6.61
+			xmax = 7.12
+			text = ""
+		intervals [11]:
+			xmin = 7.12
+			xmax = 7.88
+			text = "0"
+		intervals [12]:
+			xmin = 7.88
+			xmax = 8.8
+			text = ""
+		intervals [13]:
+			xmin = 8.8
+			xmax = 9.1240625
+			text = "0"

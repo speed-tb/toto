@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.9570625
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 3.9570625
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.66
+			text = "0"
+		intervals [2]:
+			xmin = 0.66
+			xmax = 1.35
+			text = "dət pen"
+		intervals [3]:
+			xmin = 1.35
+			xmax = 1.52
+			text = "0"
+		intervals [4]:
+			xmin = 1.52
+			xmax = 1.94
+			text = "tebel"
+		intervals [5]:
+			xmin = 1.94
+			xmax = 1.96
+			text = "0"
+		intervals [6]:
+			xmin = 1.96
+			xmax = 2.21
+			text = "ko"
+		intervals [7]:
+			xmin = 2.21
+			xmax = 2.25
+			text = "0"
+		intervals [8]:
+			xmin = 2.25
+			xmax = 3.18
+			text = "arita nina"
+		intervals [9]:
+			xmin = 3.18
+			xmax = 3.9570625
+			text = "0"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 3.9570625
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.66
+			text = "0"
+		intervals [2]:
+			xmin = 0.66
+			xmax = 1.35
+			text = ""
+		intervals [3]:
+			xmin = 1.35
+			xmax = 1.52
+			text = "0"
+		intervals [4]:
+			xmin = 1.52
+			xmax = 1.94
+			text = ""
+		intervals [5]:
+			xmin = 1.94
+			xmax = 1.96
+			text = "0"
+		intervals [6]:
+			xmin = 1.96
+			xmax = 2.21
+			text = ""
+		intervals [7]:
+			xmin = 2.21
+			xmax = 2.25
+			text = "0"
+		intervals [8]:
+			xmin = 2.25
+			xmax = 3.18
+			text = ""
+		intervals [9]:
+			xmin = 3.18
+			xmax = 3.9570625
+			text = "0"
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 3.9570625
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.66
+			text = "0"
+		intervals [2]:
+			xmin = 0.66
+			xmax = 1.35
+			text = ""
+		intervals [3]:
+			xmin = 1.35
+			xmax = 1.52
+			text = "0"
+		intervals [4]:
+			xmin = 1.52
+			xmax = 1.94
+			text = ""
+		intervals [5]:
+			xmin = 1.94
+			xmax = 1.96
+			text = "0"
+		intervals [6]:
+			xmin = 1.96
+			xmax = 2.21
+			text = ""
+		intervals [7]:
+			xmin = 2.21
+			xmax = 2.25
+			text = "0"
+		intervals [8]:
+			xmin = 2.25
+			xmax = 3.18
+			text = ""
+		intervals [9]:
+			xmin = 3.18
+			xmax = 3.9570625
+			text = "0"
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-eng-Latn-translation"
+		xmin = 0.0
+		xmax = 3.9570625
+		intervals: size = 9
+		intervals [1]:
+			xmin = 0.0
+			xmax = 0.66
+			text = "0"
+		intervals [2]:
+			xmin = 0.66
+			xmax = 1.35
+			text = ""
+		intervals [3]:
+			xmin = 1.35
+			xmax = 1.52
+			text = "0"
+		intervals [4]:
+			xmin = 1.52
+			xmax = 1.94
+			text = ""
+		intervals [5]:
+			xmin = 1.94
+			xmax = 1.96
+			text = "0"
+		intervals [6]:
+			xmin = 1.96
+			xmax = 2.21
+			text = ""
+		intervals [7]:
+			xmin = 2.21
+			xmax = 2.25
+			text = "0"
+		intervals [8]:
+			xmin = 2.25
+			xmax = 3.18
+			text = ""
+		intervals [9]:
+			xmin = 3.18
+			xmax = 3.9570625
+			text = "0"

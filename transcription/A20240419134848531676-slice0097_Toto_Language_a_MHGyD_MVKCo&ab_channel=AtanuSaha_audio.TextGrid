@@ -1,0 +1,64 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 130.88
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "sentence-IPA-transcription"
+		xmin = 0.0
+		xmax = 130.88
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 73.05
+			text = "0"
+		intervals [2]:
+			xmin = 73.05
+			xmax = 130.88
+			text = "ʈoʈbiko loita ʈoʈbiko sa nina woŋko nina ɖemsa ɟeɟeŋkowa ico nina woŋko ɖemsa o bar bar nina woŋko ɖemsa mankawaŋɖoŋ orocawa ɖaŋko dea mataleia  maŋko dea danteleiwa ɟerom ɟiŋkno oiwa  nina woŋko ɖemsa o bar bar biu ta hamsa haŋsacaowa guata hamsa saŋtihaŋwa ɟerom ɟiŋkno oiwa nina woŋko ɖemsa o bar bar   gærani"
+	item [2]:
+		class = "IntervalTier"
+		name = "sentence-Bengali-transcription"
+		xmin = 0.0
+		xmax = 130.88
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 73.05
+			text = "0"
+		intervals [2]:
+			xmin = 73.05
+			xmax = 130.88
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "sentence-Toto-transcription"
+		xmin = 0.0
+		xmax = 130.88
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 73.05
+			text = "0"
+		intervals [2]:
+			xmin = 73.05
+			xmax = 130.88
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "sentence-English-Latin-translation"
+		xmin = 0.0
+		xmax = 130.88
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 73.05
+			text = "0"
+		intervals [2]:
+			xmin = 73.05
+			xmax = 130.88
+			text = ""
